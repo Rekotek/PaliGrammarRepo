@@ -1,5 +1,6 @@
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/female/ShortIFemaleConstants.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/common/NounDescription.java
+/Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/pronouns/ThirdFemalePerson.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/neutral/ShortINeutralConstants.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/neutral/ShortANeutralConstants.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/enums/WordCase.java
@@ -9,6 +10,7 @@
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/male/ShortUMaleConstants.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/neutral/ShortUNeutralConstants.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/female/VantFemaleConstants.java
+/Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/pronouns/ThirdMalePerson.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/neutral/MantNeutralConstants.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/EndingFullFormsHelper.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/enums/WordForm.java
@@ -18,12 +20,18 @@
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/EndingTypeHelper.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/male/LongIMaleConstants.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/enums/Gender.java
+/Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/pronouns/SecondPerson.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/male/MantMaleConstants.java
+/Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/pronouns/FirstPerson.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/enums/EndingType.java
+/Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/pronouns/RelativeFemale.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/NounCases.java
+/Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/pronouns/RelativeNeutral.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/enums/NumberType.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/male/ShortIMaleConstants.java
+/Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/pronouns/ThirdNeutralPerson.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/female/MantFemaleConstants.java
+/Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/pronouns/RelativeMale.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/common/EndingDescription.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/common/GrammarDefinitions.java
 /Users/taras/Documents/Development/Java/PaliGrammar/src/main/java/com/scriptorium/pali/tables/nouncases/female/LongIFemaleConstants.java

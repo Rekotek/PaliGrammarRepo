@@ -1,4 +1,5 @@
 com/scriptorium/pali/tables/nouncases/neutral/ShortANeutralConstants.class
+com/scriptorium/pali/tables/pronouns/RelativeNeutral.class
 com/scriptorium/pali/tables/EndingFullFormsHelper.class
 com/scriptorium/pali/common/GrammarDefinitions.class
 com/scriptorium/pali/tables/nouncases/neutral/VantNeutralConstants.class
@@ -7,12 +8,15 @@ com/scriptorium/pali/tables/nouncases/neutral/ShortINeutralConstants.class
 com/scriptorium/pali/EndingTypeHelper.class
 com/scriptorium/pali/common/EndingDescription.class
 com/scriptorium/pali/tables/nouncases/neutral/MantNeutralConstants.class
+com/scriptorium/pali/tables/pronouns/SecondPerson.class
 com/scriptorium/pali/tables/nouncases/male/ShortAMaleConstants.class
 com/scriptorium/pali/NounCases.class
 com/scriptorium/pali/tables/nouncases/female/VantFemaleConstants.class
 com/scriptorium/pali/tables/nouncases/male/LongIMaleConstants.class
 com/scriptorium/pali/tables/nouncases/female/ShortUFemaleConstants.class
 com/scriptorium/pali/enums/WordCase.class
+com/scriptorium/pali/tables/pronouns/ThirdNeutralPerson.class
+com/scriptorium/pali/tables/pronouns/ThirdMalePerson.class
 com/scriptorium/pali/tables/nouncases/male/LongUMaleConstants.class
 com/scriptorium/pali/enums/Gender.class
 com/scriptorium/pali/common/HtmlOutput.class
@@ -20,11 +24,15 @@ com/scriptorium/pali/tables/nouncases/neutral/ShortUNeutralConstants.class
 com/scriptorium/pali/enums/WordForm.class
 com/scriptorium/pali/common/NounDescription.class
 com/scriptorium/pali/tables/nouncases/female/LongAFemaleConstants.class
+com/scriptorium/pali/tables/pronouns/RelativeMale.class
 com/scriptorium/pali/enums/EndingType.class
 com/scriptorium/pali/tables/nouncases/female/MantFemaleConstants.class
 com/scriptorium/pali/tables/nouncases/male/VantMaleConstants.class
 com/scriptorium/pali/enums/NumberType.class
+com/scriptorium/pali/tables/pronouns/RelativeFemale.class
 com/scriptorium/pali/tables/nouncases/male/ShortUMaleConstants.class
+com/scriptorium/pali/tables/pronouns/FirstPerson.class
+com/scriptorium/pali/tables/pronouns/ThirdFemalePerson.class
 com/scriptorium/pali/tables/nouncases/male/ShortIMaleConstants.class
 com/scriptorium/pali/tables/nouncases/male/MantMaleConstants.class
 com/scriptorium/pali/tables/nouncases/female/LongIFemaleConstants.class
