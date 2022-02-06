@@ -5,7 +5,7 @@
   <dependency>
     <groupId>com.scriptorium.pali</groupId>
     <artifactId>grammar-forms</artifactId>
-    <version>1.0</version>
+    <version>1.3</version>
   </dependency>
 ...
 ```
